@@ -32,7 +32,7 @@ public class Hero
                 rolesString.append(", ");
             }
         }
-        return "Roles: " + rolesString.toString();
+        return "ROLES: " + rolesString.toString();
     }
 
     public String[] getGoodAgainst() 
