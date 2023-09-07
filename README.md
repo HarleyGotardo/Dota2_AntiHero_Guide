@@ -29,7 +29,7 @@ A Dota 2 hero is represented by the following attributes:
 - **Name**
 - **Attribute**
 - **Role[]:** An array of roles the hero can play.
-- **String[] goodAgainst:** A list of heroes that the hero is effective against.
+- **String[] goodAgainst:** A list of heroes that the hero is effective against and also the description of the reason.
 
 ## Inference Algorithm
 
