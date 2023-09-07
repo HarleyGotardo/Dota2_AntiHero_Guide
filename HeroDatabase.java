@@ -1105,7 +1105,7 @@ public class HeroDatabase
     }
 
     public static Hero createWindranger() {
-        return new Hero("Weaver",Attribute.UNIVERSAL, new Role[] {Role.CARRY, Role.SUPPORT, Role.NUKER, Role.DISABLER, Role.ESCAPE}, new String[] {"[Earthshaker]: Windrun can be used to dodge Earthshaker's abilities if Windranger has a quick reaction time. Focus Fire and Windrun allow Windranger to kite Earthshaker. Shackleshot can prevent Earthshaker from using Fissure if Windranger reacts swiftly.",
+        return new Hero("Windranger",Attribute.UNIVERSAL, new Role[] {Role.CARRY, Role.SUPPORT, Role.NUKER, Role.DISABLER, Role.ESCAPE}, new String[] {"[Earthshaker]: Windrun can be used to dodge Earthshaker's abilities if Windranger has a quick reaction time. Focus Fire and Windrun allow Windranger to kite Earthshaker. Shackleshot can prevent Earthshaker from using Fissure if Windranger reacts swiftly.",
         "[Huskar]: Windrun can prevent Huskar from landing Burning Spears. Focus Fire and Powershot are effective against Huskar, especially when he's at low health.",
         "[Hoodwink]: Powershot can destroy trees to disrupt Scurry and Bushwhack. Acorn Shot creates a tree for an easy Shackleshot. Windrun helps Windranger evade Acorn Shot. Shackleshot can stun Hoodwink for a significant duration due to her reliance on positioning with trees.",
         "[Phantom Assassin]: Windranger can bypass Phantom Assassin's Blur with Monkey King Bar or Bloodthorn. Windrun makes it difficult for Phantom Assassin to land attacks. Focus Fire still deals considerable damage despite Blur. Phantom Assassin rarely builds Monkey King Bar due to her reliance on attack damage.",
